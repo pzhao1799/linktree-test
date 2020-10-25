@@ -1,0 +1,6 @@
+name = "linktree"
+type = "javascript"
+account_id = "18f66e95c4503ea25620ca66d2a6ed73"
+workers_dev = true
+route = ""
+zone_id = ""
